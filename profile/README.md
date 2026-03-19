@@ -1,6 +1,6 @@
 ## 📜 Our Manifesto
 
-Vaultick is dedicated to the secure, long-term preservation of your digital legacy.
+Hushbox is dedicated to the secure, long-term preservation of your digital legacy.
 
 - **End-to-End Encryption** – Encryption happens in your browser. Your plain-text secrets never touch our servers.
 - **Zero-Trust Storage** – We cannot reveal your secrets to anyone, including ourselves. You hold the keys.
